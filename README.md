@@ -1,7 +1,6 @@
 # Awesome Github Profiles
 
-![image](https://user-images.githubusercontent.com/71369943/116645396-6386d700-a993-11eb-8328-d7ff5e2aeca2.png)
-
+![97fc125b106cff4c6992b78306815aa6](https://user-images.githubusercontent.com/71369943/116645835-47376a00-a994-11eb-9d83-b1cab039f148.gif)
 
 ![.github/workflows/main.yml](https://github.com/PUGroups/awesome-github-profiles/workflows/.github/workflows/main.yml/badge.svg)
 
